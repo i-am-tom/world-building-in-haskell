@@ -1,0 +1,234 @@
+{  "grass": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "riverBankedES": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "riverBankedEW": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "riverBankedNE": [
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "riverBankedNS": [
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "riverBankedNW": [
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "riverBankedSW": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Grass" ],
+    [ "Sky",  "Sky",  "Sky"  ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "roadES": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky" ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "roadEW": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Sky",  "Sky",  "Sky" ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "roadNE": [
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky" ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "roadNS": [
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",  "Sky",  "Sky" ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "roadNW": [
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Sky",  "Sky",  "Sky" ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "roadSW": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Road", "Grass" ],
+    [ "Sky",  "Sky",  "Sky" ],
+    [ "Dirt", "Dirt", "Dirt" ]
+  ],
+
+  "water": [
+    [ "Water", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterCornerES": [
+    [ "Water", "Water", "Water" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Water", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterCornerNE": [
+    [ "Water", "Water", "Grass" ],
+    [ "Water", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterCornerNW": [
+    [ "Grass", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterCornerSW": [
+    [ "Water", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterE": [
+    [ "Water", "Water", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Water", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterES": [
+    [ "Water", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterN": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Water", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterNE": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterNW": [
+    [ "Grass", "Grass", "Grass" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterS": [
+    [ "Water", "Water", "Water" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterSW": [
+    [ "Grass", "Water", "Water" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Water", "Water", "Grass" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ],
+
+  "waterW": [
+    [ "Grass", "Water", "Water" ],
+    [ "Grass", "Water", "Water" ],
+    [ "Water", "Water", "Water" ],
+    [ "Grass", "Grass", "Grass" ],
+    [ "Sky",   "Sky",   "Sky"   ],
+    [ "Dirt",  "Dirt",  "Dirt"  ]
+  ]
+}
