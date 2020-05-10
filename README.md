@@ -11,6 +11,16 @@ If you're looking to understand this code, the best place to start is probably
 `app/Main.hs`. This should give you an idea of what the different parts of
 `src` are doing through some examples.
 
+## Examples
+
+### Caves from noise and boolean clustering
+
 ![Caves](examples/05-cave.png)
+
+### Islands from Perlin noise and heatmap shading
+
 ![Perlin](examples/07-mountains.png)
+
+### Tiling with WFC
+
 ![WaveFunctionCollapse](examples/08-isometric.gif)
