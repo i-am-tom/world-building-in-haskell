@@ -1,7 +1,7 @@
 # World-Building in Haskell
 
 An introduction to a couple techniques in procedural generation, written in a
-language that arguably couldn't be less-suited to the task.
+language that arguably couldn't be less suited to the task.
 
 All the visual assets come from the incredible [kenney.nl](https://kenney.nl/)
 resources - thoroughly recommend checking them out if, like me, you would love
@@ -15,12 +15,12 @@ If you're looking to understand this code, the best place to start is probably
 
 ### Caves from noise and boolean clustering
 
-![Caves](examples/05-cave.png)
+<img alt="Caves" src="examples/05-cave.png" width="400" />
 
 ### Islands from Perlin noise and heatmap shading
 
-![Perlin](examples/07-mountains.png)
+<img alt="Perlin" src="examples/07-mountains.png" width="400" />
 
 ### Tiling with WFC
 
-![WaveFunctionCollapse](examples/08-isometric.gif)
+<img alt="WaveFunctionCollapse" src="examples/08-isometric.gif" width="400" />
